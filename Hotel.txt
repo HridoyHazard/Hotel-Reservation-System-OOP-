@@ -1,0 +1,9 @@
+Full Name: dada
+Room No: 1
+Number Of Nights: 2
+Address: Sylhet
+Room Type: Standard Room (1 to 2)
+Gender: Male
+Special request: Kacchi
+Number: 01746436
+Reserve Date: 22/1/2021
